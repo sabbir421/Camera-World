@@ -1,0 +1,60 @@
+.sort{
+    height:170px;
+    width:100%;
+    background-color:lightsalmon;
+    color:#fff
+}
+.sort-icon{
+    color:#fff;
+    font-size: 40px;
+}
+.pen{
+    height:170px;
+    width:100%;
+    background-color:magenta;
+    color:#fff;
+}
+.pen-icon{
+    color:#fff;
+    font-size: 40px;
+}
+.plus{
+    height:170px;
+    width:100%;
+    background-color:blue;
+    color:#fff;
+}
+.plus-icon{
+    color:#fff;
+    font-size: 40px;
+}
+.task{
+    height:170px;
+    width:100%;
+    background-color:darkgreen;
+    color:#fff;
+}
+.task-icon{
+    color:#fff;
+    font-size: 40px;
+}
+.phunt{
+    height:170px;
+    width:100%;
+    background-color:orange;
+    color:#fff;
+}
+.phunt-icon{
+    color:#fff;
+    font-size: 40px;
+}
+.admin{
+    height:170px;
+    width:100%;
+    background-color:lightgreen;
+    color:#fff;
+}
+.admin-icon{
+    color:#fff;
+    font-size: 40px;
+}

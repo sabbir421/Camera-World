@@ -1,0 +1,39 @@
+.info-text{
+    font-size: 14px;
+   text-align: center;
+}
+.navbar{
+    background-color: #fff;
+}
+.link{
+    text-decoration: none;
+    color:black;
+   
+}
+.search{
+    text-align: center;
+    outline-style: none;
+    border:1px solid white;
+    border-bottom:1px solid gold;
+}
+
+.button{
+    height:30px;
+   
+}
+.cart-button{
+    border:#00C642 ;
+    background-color: #fff;
+}
+.cart-item{
+    position:absolute;
+    margin-top: -17px;
+    margin-left: -30px;
+    text-decoration: none;
+     font-weight: 700;
+     color: black ;   
+   
+}
+.name{
+    font-size: 18px;
+}

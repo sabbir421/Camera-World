@@ -1,0 +1,11 @@
+.review-card{
+    border:1px solid gainsboro;
+    height:250px;
+   
+}
+.review-image{
+    height:100px;
+    padding:10px;
+    width:100%;
+    border-radius: 15px;
+}

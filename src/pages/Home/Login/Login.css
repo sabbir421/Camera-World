@@ -1,0 +1,33 @@
+.login-card{
+    border: 1px solid rgb(204, 202, 202);
+    border-radius: 15px;
+}
+.log-in-button{
+    border: 1px solid rgb(204, 202, 202);
+    background-color: #fff;
+    border-radius: 15px;
+}
+.gogle-icon{
+    color:green;
+    font-size: 25px;
+}
+.google{
+    font-size: 20px;
+   
+}
+.logo{
+    height:100px;
+}
+.login-form input{
+ border: #fff;
+ border-bottom: 1px solid gainsboro;
+ margin-top: 15px;
+ outline: none;
+ width:75%;
+}
+.submit{
+    background-color: orange;
+}
+.create{
+    font-size: 14px;
+}

@@ -1,0 +1,57 @@
+.footer{
+    background-color: black;
+  
+}
+.insta-icon{
+    font-size: 30px;
+    color:rgb(182, 176, 176);
+}
+.fb-icon{
+    font-size: 30px;  
+    color:rgb(182, 176, 176);
+  
+}
+.youtube-icon{
+    font-size: 30px;
+    color:rgb(182, 176, 176);
+   
+}
+.google-icon{
+    color:rgb(182, 176, 176);
+    font-size: 30px;
+}
+.user-details p{
+    font-size: 12px;
+}
+.apple-icon{
+    color:white;
+}
+.play-icon{
+    color:rgba(0, 0, 255, 0.925);
+}
+.btn-app{
+    background-color:black;
+    border:black;
+    color:white;
+}
+.map-icon{
+    color:green;
+}
+.mail-icon{
+    color:green;
+    font-size: 30px;
+}
+.join{
+    font-size: 14px;
+}
+.input-footer{
+    border:none;
+    outline-style: none;
+    
+}
+.input-btn{
+    background-color: green;
+    border:green;
+    color: #fff;
+ 
+}
